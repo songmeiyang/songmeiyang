@@ -1,3 +1,7 @@
+#  !  不会忽略.gitkeep
+#  /  匹配文件夹，例如doc/ 将匹配doc文件夹
+
+
 _site/*
 _theme_packages/*
 
